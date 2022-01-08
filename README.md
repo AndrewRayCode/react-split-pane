@@ -1,3 +1,7 @@
+# Fork information
+
+This is a fork of react-split-pane to support React 17 and above, until a new maintainer is found or [this upgrade PR](https://github.com/tomkp/react-split-pane/pull/681) is merged.
+
 # React Split Pane
 
 [![NPM version](https://img.shields.io/npm/v/react-split-pane.svg?style=flat)](https://www.npmjs.com/package/react-split-pane)

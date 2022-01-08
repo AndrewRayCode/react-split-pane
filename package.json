@@ -9,6 +9,9 @@
     "dist",
     "index.d.ts"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "0.1.92",
   "repository": {
     "type": "git",
